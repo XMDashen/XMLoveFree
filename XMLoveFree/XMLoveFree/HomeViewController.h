@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HomeViewController.h
 //  XMLoveFree
 //
 //  Created by 千锋 on 16/6/8.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
-
+@interface HomeViewController : UIViewController
 
 @end
-

@@ -14,6 +14,7 @@
 		BC6E98651D07F121005A042F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC6E98641D07F121005A042F /* Images.xcassets */; };
 		BC6E98681D07F121005A042F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC6E98661D07F121005A042F /* LaunchScreen.xib */; };
 		BC6E98741D07F121005A042F /* XMLoveFreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC6E98731D07F121005A042F /* XMLoveFreeTests.m */; };
+		BCC94D481D07F9E70001F97F /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC94D471D07F9E70001F97F /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		BC6E986D1D07F121005A042F /* XMLoveFreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XMLoveFreeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC6E98721D07F121005A042F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC6E98731D07F121005A042F /* XMLoveFreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMLoveFreeTests.m; sourceTree = "<group>"; };
+		BCC94D461D07F9E70001F97F /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		BCC94D471D07F9E70001F97F /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				BC6E985C1D07F121005A042F /* AppDelegate.m */,
 				BC6E985E1D07F121005A042F /* ViewController.h */,
 				BC6E985F1D07F121005A042F /* ViewController.m */,
+				BCC94D461D07F9E70001F97F /* HomeViewController.h */,
+				BCC94D471D07F9E70001F97F /* HomeViewController.m */,
 				BC6E98611D07F121005A042F /* Main.storyboard */,
 				BC6E98641D07F121005A042F /* Images.xcassets */,
 				BC6E98661D07F121005A042F /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				BC6E98601D07F121005A042F /* ViewController.m in Sources */,
 				BC6E985D1D07F121005A042F /* AppDelegate.m in Sources */,
 				BC6E985A1D07F121005A042F /* main.m in Sources */,
+				BCC94D481D07F9E70001F97F /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +424,7 @@
 				BC6E98791D07F121005A042F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC6E987A1D07F121005A042F /* Build configuration list for PBXNativeTarget "XMLoveFreeTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +433,7 @@
 				BC6E987C1D07F121005A042F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
