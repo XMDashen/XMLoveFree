@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8A2E361E-F38F-4250-88B1-AF25220C8D98</string>
 	<key>IDESourceControlProjectName</key>
-	<string>XMLoveFree</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8524A405ACAAFD62B1702B1A59E1E4F394E189F4</key>
 		<string>https://github.com/XMDashen/XMLoveFree.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>XMLoveFree/XMLoveFree.xcodeproj</string>
+	<string>XMLoveFree/XMLoveFree.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8524A405ACAAFD62B1702B1A59E1E4F394E189F4</key>
